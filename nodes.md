@@ -16,3 +16,28 @@
 - Plotting (Matplotlib)
 - Backend (Pandas, Connect 4, Digital Photography)
 - Machine Learning
+
+
+
+
+### Decision Tree
+- Training data - data used to fit the model
+
+
+
+
+## Jupyer
+- Pandas is the primary tool data scientists use for exploring and manipulating data
+- DataFrame holds the type of data you might think of as a table. This is similar to a sheet in Excel, or a table in a SQL database.
+- 
+
+
+
+
+
+
+
+
+
+
+
